@@ -1,0 +1,9 @@
+
+# directory of the dataset
+dataset: '/home/ujasmandavia/dataset/00/'
+
+# whether write the pose to txt file or not
+if_write_pose: true
+
+# whether use rviz visualization or not
+if_rviz: true
