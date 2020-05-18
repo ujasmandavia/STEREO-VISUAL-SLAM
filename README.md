@@ -2,6 +2,8 @@
 
 ## Overview
 
+Here in this branch I'm planning to add changes initially
+
 This is a code-base for visual slam written by # Shangzhou Ye and it is working well for me with a ROS wrapper and I'm planning to use it to add loop closure, landmark based optimization and parallel thread to this code-base
 
 Here is the link to the original code by Shangzhou Ye
